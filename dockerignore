@@ -1,0 +1,14 @@
+# Git files
+.git
+.gitignore
+
+# Documentation
+README.md
+*.md
+
+# OS junk files
+*.DS_Store
+Thumbs.db
+
+# Node modules (if accidentally added)
+node_modules
